@@ -458,7 +458,7 @@ class _CropPainter extends CustomPainter {
     }
 
     paint.color = Color.fromRGBO(
-        0x0,
+        0x1,
         0x0,
         0x0,
         _kCropOverlayActiveOpacity * active +
